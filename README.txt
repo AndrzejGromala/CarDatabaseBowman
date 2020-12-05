@@ -1,1 +1,1 @@
-This project is a small data base of cars which is a SQL Server Express LocalDB. Cars can be added to the date base, existing ones can be modified. There is an option to search the database and view the entries one by one and remove them. 
+This project is a small data base of cars which is a SQL Server Express LocalDB. Cars can be added to the database, existing ones can be modified. There is an option to search the database and view the entries one by one and remove them. 
